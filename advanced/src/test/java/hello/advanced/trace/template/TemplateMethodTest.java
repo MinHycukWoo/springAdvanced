@@ -37,6 +37,7 @@ public class TemplateMethodTest {
 
     /**
      * 템플릿 메서드 패턴 적용
+     * 변하는 코드와 변하지 않는 코드를 분리
      */
     @Test
     void templateMethodV1(){
